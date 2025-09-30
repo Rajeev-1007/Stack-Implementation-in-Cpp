@@ -74,8 +74,4 @@ int main() {
 
     return 0;
 }
-//1. Push
-//2. Pop
-//3. Display
-//0. Exit
-//Enter your choice: 
+
